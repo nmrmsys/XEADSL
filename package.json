@@ -1,0 +1,39 @@
+{
+  "name": "xeadsl",
+  "version": "0.0.1",
+  "description": "XEAD command wrapper, save XML to YAML and other",
+  "author": {
+    "name": "nmrmsys",
+    "email": "nmrmsys@gmail.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xead",
+    "convert"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nmrmsys/XEADSL.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nmrmsys/XEADSL/issues"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+    "commander": "~2.6.0",
+    "converter": "~0.0.5"
+  },
+  "bin": {
+    "XEADSL": "./XEADSL"
+  },
+  "homepage": "https://github.com/nmrmsys/XEADSL",
+  "directories": {
+  },
+  "files": {
+  },
+  "readme": "ERROR: No README data found!"
+}
